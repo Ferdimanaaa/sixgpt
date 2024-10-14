@@ -19,11 +19,11 @@
 ## Installation
 - You can use either this command
 ```bash
-[ -f "sixgpt.sh" ] && rm sixgpt.sh; curl -s -o sixgpt.sh https://raw.githubusercontent.com/zunxbt/sixgpt/main/sixgpt.sh && chmod +x sixgpt.sh && ./sixgpt.sh
+[ -f "sixgpt.sh" ] && rm sixgpt.sh; curl -s -o sixgpt.sh https://raw.githubusercontent.com/Ferdimanaaa/sixgpt/refs/heads/main/sixgpt.sh && chmod +x sixgpt.sh && ./sixgpt.sh
 ```
 - Or this command to run this script
 ```bash
-[ -f "sixgpt.sh" ] && rm sixgpt.sh; wget -q https://raw.githubusercontent.com/zunxbt/sixgpt/main/sixgpt.sh && chmod +x sixgpt.sh && ./sixgpt.sh
+[ -f "sixgpt.sh" ] && rm sixgpt.sh; wget -q https://raw.githubusercontent.com/Ferdimanaaa/sixgpt/refs/heads/main/sixgpt.sh && chmod +x sixgpt.sh && ./sixgpt.sh
 ```
 
 ## Imp Note
